@@ -1,6 +1,4 @@
 package com.code.matrix_arrays;
-
-
 import java.util.Scanner;
 import java.util.Arrays;
 

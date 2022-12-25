@@ -17,6 +17,12 @@ public class LinearSearch {
                 return i;
             }
         }
+        /*//run a inhanced for loop to check target element
+            for (int element : arr) {
+            if (element == target) {
+                return element;
+            }
+        }*/
         return -1;
     }
 

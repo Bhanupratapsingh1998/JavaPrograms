@@ -10,7 +10,7 @@ public class lsearchString {
         if (str.length() == 0) {
             return false;
         }
-        //run a inhanced for loop to check target element
+        //run a for loop to check target element
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) == target) {
                 return true;
