@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author hashstudioz
+ * @author User
  */
 public class even_odd_prime {
 
