@@ -1,4 +1,4 @@
-package com.patterns;
+package com.code.Q100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author hashstudioz
+ * @author User
  */
 public class even_odd_prime {
 
