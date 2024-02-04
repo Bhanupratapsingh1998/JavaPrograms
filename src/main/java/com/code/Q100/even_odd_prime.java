@@ -1,4 +1,4 @@
-package com.patterns;
+package com.code.Q100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
